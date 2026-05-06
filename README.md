@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola, soy Alejandro Escobar 👋
 
-<!--
-**aescobardev/aescobardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer en formación  
+🚀 Aprendiendo JavaScript, Git, GitHub y desarrollo web moderno  
+🎯 Objetivo: Convertirme en Full Stack Developer  
 
-Here are some ideas to get you started:
+## Tecnologías
+- HTML5
+- CSS3
+- Sass
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- Adidas E-commerce Frontend
