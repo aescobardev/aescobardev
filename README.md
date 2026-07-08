@@ -25,11 +25,11 @@ Actualmente estoy fortaleciendo mis conocimientos en **SQL Server**, **T-SQL**, 
 
 ## 🚀 Actualmente
 
-- 💻 Desarrollando proyectos Front-End.
-- 🗄️ Practicando SQL Server y T-SQL.
-- 📚 Aprendiendo diseño y modelado de bases de datos relacionales.
-- 🌐 Mejorando continuamente mi portafolio profesional.
-- ☁️ Preparándome para aprender AWS y tecnologías Cloud.
+- 💻 Desarrollando proyectos de Front-End con HTML, SCSS y JavaScript.
+- 🗄️ Construyendo un portafolio profesional de SQL Server.
+- 📚 Profundizando en T-SQL, Stored Procedures, Views y Functions.
+- 🌐 Mejorando continuamente mis proyectos personales y documentación.
+- ☁️ Preparándome para especializarme en Cloud Computing con AWS.
 
 ---
 
@@ -45,6 +45,18 @@ Actualmente estoy fortaleciendo mis conocimientos en **SQL Server**, **T-SQL**, 
 ---
 
 ## 📂 Proyectos Destacados
+
+🛒 Adidas E-Commerce
+
+E-commerce responsive desarrollado con HTML, SCSS y JavaScript.
+
+🎾 Nika Tennis Club
+
+Sitio web corporativo moderno para un club deportivo.
+
+💼 Portfolio Personal
+
+Mi portafolio profesional con proyectos y experiencia.
 
 ### 🌐 Desarrollo Web
 
@@ -73,5 +85,120 @@ Mi objetivo es desarrollar aplicaciones web modernas, escalables y bien estructu
 - 📧 Email: ae2743531@gmail.com
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aescobardev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aescobardev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aescobardev&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aescobardev&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aescobardev&theme=onedark&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🗺️ Roadmap Profesional
+
+Frontend
+██████████ 100%
+
+Git
+██████████ 100%
+
+SQL Server
+████████░░ 80%
+
+React
+██░░░░░░░░ 20%
+
+Node.js
+█░░░░░░░░░ 10%
+
+AWS
+░░░░░░░░░░ 0%
+
+## ✅ Completado
+
+- HTML5
+- CSS3
+- JavaScript
+- Sass (SCSS)
+- Bootstrap
+- Git
+- GitHub
+- SQL Server
+- T-SQL
+- Modelado de Bases de Datos
+- AdventureWorks
+- Diseño de Bases de Datos Relacionales
+
+## 🚧 Actualmente
+
+- SQL Server Avanzado
+- Stored Procedures
+- Views
+- User Defined Functions
+- Optimización de Consultas
+
+## 🎯 Próximos Objetivos
+
+- React
+- Node.js
+- Express.js
+- APIs REST
+- AWS Cloud
+- Docker
+- Full Stack Development
+
+## 💡 Especialidades
+
+✔ Desarrollo Front-End
+
+✔ Diseño Responsivo
+
+✔ SQL Server
+
+✔ Modelado de Bases de Datos
+
+✔ T-SQL
+
+✔ Git y GitHub
+
+✔ Resolución de Problemas
+
+✔ Aprendizaje Continuo
+
+
 
 ⭐ Gracias por visitar mi perfil.
