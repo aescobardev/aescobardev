@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-github.png" width="100%" alt="Alejandro Escobar Banner"/>
+</p>
+
 # ¡Hola! Soy Alejandro Escobar 👋
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
