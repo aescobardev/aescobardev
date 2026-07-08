@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-github.png" width="100%" alt="Alejandro Escobar Banner"/>
+  <img src="./Banner_aescoberdev.png" width="100%" alt="Alejandro Escobar Banner"/>
 </p>
 
 # ¡Hola! Soy Alejandro Escobar 👋
